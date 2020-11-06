@@ -28,7 +28,7 @@ cryptographie (sécurité des mots de passes et des paquets réseaux) en RSA et 
   * Authentifiez-vous et jouez  !
   
 # Développé par 
-  * KHALIKINE Noueman
-  * EL HOUDAIGUI Othmane
-  * EL AJJAJ Oumaima
-  * ASSOUJAA Hajar
+  * [Noueman KHALIKINE](https://github.com/NouemanKHAL)
+  * [Othmane EL HOUDAIGUI](https://github.com/othmane1997)
+  * [Oumaima EL AJJAJ](https://github.com/oumaimaaj)
+  * Hajar ASSOUJAA
